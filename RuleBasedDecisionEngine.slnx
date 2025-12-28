@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RuleEngine.API/RuleEngine.API.csproj" />
+  <Project Path="RuleEngine.Application/RuleEngine.Application.csproj" Id="c3c8e6a4-a8da-4608-8bc1-587497f91e46" />
+  <Project Path="RuleEngine.Domain/RuleEngine.Domain.csproj" Id="50e7a447-16fb-43b6-9bbd-7d6f9c3f5f7c" />
+  <Project Path="RuleEngine.Tests/RuleEngine.Tests.csproj" Id="4daabf5b-3dff-4213-baa5-7ded527dd396" />
+</Solution>
